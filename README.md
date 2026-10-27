@@ -36,7 +36,7 @@ I will add each problem's solution as I solve and upload it.
 
 | Problem | Language | Topic |
 |---|---|---|
-| 1480 - Running Sum of 1D Array | Java | Arrays |
+| 1480 - Running Sum of 1D Array | Java & C | Arrays |
 
 ## 📈 My Journey
 
