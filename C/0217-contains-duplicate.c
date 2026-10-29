@@ -1,9 +1,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-// LeetCode 217: Contains Duplicate
-// Approach: Sort the array, then check adjacent elements.
-// Time Complexity: O(n log n)
+
 
 static int compareInts(const void *a, const void *b) {
     int x = *(const int *)a;
